@@ -1,0 +1,1249 @@
+2021-12-27 13:40:11.325 [ERRO] crawled url : http://183.246.198.122:8099/api/Hourse/QueryXKZDetailsForXMID?id=61000055 , error message : status code：500
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:376
+2.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:40:11.961 [ERRO] crawled url : http://183.246.198.122:8099/api/Hourse/QueryXKZDetailsForXMID?id=61000078 , error message : status code：500
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:376
+2.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:40:30.788 [ERRO] crawled url : http://183.246.198.122:8099/api/Hourse/QueryXKZDetailsForXMID?id=7cb68ef1c25c4214b34fb1fb8fdae598 , error message : status code：500
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:376
+2.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:40:30.791 [ERRO] crawled url : http://183.246.198.122:8099/api/Hourse/QueryXKZDetailsForXMID?id=a8793f6c40e24f1c963a698950fe93f2 , error message : status code：500
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:376
+2.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:40:48.945 [ERRO] crawled url : http://183.246.198.122:8099/api/Hourse/QueryXKZDetailsForXMID?id=c248251f3d17449ba8a0c96cca57a96a , error message : status code：500
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:376
+2.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:40:48.992 [ERRO] crawled url : http://183.246.198.122:8099/api/Hourse/QueryXKZDetailsForXMID?id=15b81efe288344f8ac9610013abd0189 , error message : status code：500
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:376
+2.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:42:51.459 [ERRO] crawled url : http://183.246.198.122:8099/api/Hourse/QueryXKZDetailsForXMID?id=61000055 , error message : status code：500
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:376
+2.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:47:17.286 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:57
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:47:17.328 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:57
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:47:38.809 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:47:38.824 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:47:39.269 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:47:39.414 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:47:39.911 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:47:39.944 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:47:40.457 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:47:40.460 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:47:40.900 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:47:41.039 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:47:41.346 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:47:41.535 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:48:39.882 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:48:39.983 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:48:40.412 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:48:40.431 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:48:40.815 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:48:41.007 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:48:41.390 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:48:41.392 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:48:41.907 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:48:42.017 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:48:42.374 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:48:42.616 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:48:42.834 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:48:43.157 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:48:43.475 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:48:43.794 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:48:44.024 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:48:44.372 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:48:44.515 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:48:44.906 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:48:45.004 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:48:45.472 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 13:48:45.593 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:02:32.186 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:63
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:02:32.423 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:63
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:02:32.876 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:63
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:02:33.066 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:63
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:02:33.424 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:63
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:02:33.495 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:63
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:02:33.928 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:63
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:02:34.143 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:63
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:09:37.557 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:09:37.729 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:09:38.092 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:09:38.336 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:09:38.541 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:09:38.784 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:09:39.242 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:09:39.405 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:09:39.601 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:09:39.798 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:09:40.147 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:09:40.215 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:09:40.504 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:09:40.723 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:09:40.897 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:58
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:10.213 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:61
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:10.289 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:61
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:10.883 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:61
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:10.965 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:61
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:11.275 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:61
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:11.585 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:61
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:11.937 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:61
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:20.814 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:20.876 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:21.222 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:21.393 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:21.558 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:21.988 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:22.012 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:22.367 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:22.459 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:22.730 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:23.069 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:23.124 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:23.613 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:23.659 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:24.185 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:24.220 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:24.711 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:24.732 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:25.188 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:25.261 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:25.618 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:25.695 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:26.023 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:26.260 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:26.398 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:26.808 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:26.834 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:27.225 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:27.294 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:27.655 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:27.791 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:28.005 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:28.370 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:28.527 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:28.945 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:29.091 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:29.298 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:29.566 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:29.847 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:30.058 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:30.417 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:15:30.499 [ERRO] interface conversion: interface {} is nil, not []*model.Presell 
+Stack:
+1.  go_spider/core/spider.(*Spider).pageProcess.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:336
+2.  mian/page_processor.(*PressllDelPipline).Process
+    D:/Hongbo/Code/Go_code/lishui/lishui/page_processor/presell.go:62
+3.  go_spider/core/spider.(*Spider).pageProcess
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:388
+4.  go_spider/core/spider.(*Spider).Run.func1
+    D:/Hongbo/Code/Go_code/lishui/go_spider/core/spider/spider.go:154
+
+2021-12-27 14:47:05.434 [INFO] 丽水市楼幢抓取完成 共914
